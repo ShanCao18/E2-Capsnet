@@ -1,5 +1,5 @@
 # E2-Capsnet
-E2-Capsule Neural Networks for Facial Expression Recognition Using AU-Aware
+E2-Capsule Neural Networks for Facial Expression Recognition Using AU-Aware Attention
 
 by Shan Cao, Yuqian Yao and Gaoyun An
 
