@@ -27,6 +27,6 @@ The classification results of VGG16, Capsnet, RCCnet and the proposed method on 
 
 ### Comparisons with others
 
-![image](https://github.com/ShanCao18/E2-Capsnet/blob/master/Table2comparison.jpg)
+![image](https://github.com/ShanCao18/E2-Capsnet/blob/master/Table2comparisons.jpg)
 
 Our E2-Capsnet can achieve more discriminative and effective representations than the other methods.
