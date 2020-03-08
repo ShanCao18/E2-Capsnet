@@ -22,13 +22,13 @@ E2-Capsnet takes a facial image as input and extracts rich feature maps with enh
 ## Experimental Results
 ### Ablation experiment
 
-![image](https://github.com/ShanCao18/E2-Capsnet/blob/master/Table1Ablation.jpg)
+![image](https://github.com/ShanCao18/E2-Capsnet/blob/master/Table1.jpg)
 
 The classification results of VGG16, Capsnet, RCCnet and the proposed method on RAF-DB are visualized.
 ![image](https://github.com/ShanCao18/E2-Capsnet/blob/master/Visualization.jpg)
 
 ### Comparisons with others
 
-![image](https://github.com/ShanCao18/E2-Capsnet/blob/master/Table2comparisons.jpg)
+![image](https://github.com/ShanCao18/E2-Capsnet/blob/master/Table2.jpg)
 
 Our E2-Capsnet can achieve more discriminative and effective representations than the other methods.
