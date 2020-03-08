@@ -5,7 +5,9 @@ by Shan Cao, Yuqian Yao and Gaoyun An
 
 The paper is under review.
 
-To run the code, the file "shape_predictor_68_face_landmarks.dat" is required. You can download it online.
+To run the code, the file "shape_predictor_68_face_landmarks.dat" is required. You can download it at: https://pan.baidu.com/s/17BDipqCLNzwFNsty4oc6Qg (password: 369e).
+
+The RAF-DB dataset can be downloaded at: https://pan.baidu.com/s/13JMStyLRWxpzDE9vqorpGQ (password:ly2w).
 
 
 ## The structure of our E2-Capsnet
